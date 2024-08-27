@@ -1,0 +1,25 @@
+trigger:
+  branches:
+    include:
+      - master  # Activa el pipeline cuando hay cambios en la rama master
+
+pool:
+  vmImage: 'ubuntu-latest'  # Usa una imagen de VM de Ubuntu
+
+steps:
+- script: echo "Validar Repositorio"
+  displayName: 'Validar Repositorio'
+
+- script: |
+    cd RECALH_V1/E2E-Test
+    npm install
+    npx playwright install
+    npx playwright test --project=chromium
+  displayName: 'Ejecutar pruebas de Playwright'
+
+- task: PublishBuildArtifacts@1
+  condition: succeededOrFailed()
+  inputs:
+   PathtoPublish: '$(System.DefaultWorkingDirectory)/RECALH_V1/E2E-Test/test-results'
+   ArtifactName: 'TestResults'
+  displayName: "Output Results"

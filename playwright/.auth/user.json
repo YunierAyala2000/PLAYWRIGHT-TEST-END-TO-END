@@ -1,0 +1,243 @@
+{
+  "cookies": [
+    {
+      "name": "WMF-Last-Access",
+      "value": "27-Aug-2024",
+      "domain": "es.wikipedia.org",
+      "path": "/",
+      "expires": 1727525676.542431,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "WMF-Last-Access-Global",
+      "value": "27-Aug-2024",
+      "domain": ".wikipedia.org",
+      "path": "/",
+      "expires": 1727525676.542597,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GeoIP",
+      "value": "CO:ANT:Medell__n:6.25:-75.56:v4",
+      "domain": ".wikipedia.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NetworkProbeLimit",
+      "value": "0.001",
+      "domain": "es.wikipedia.org",
+      "path": "/",
+      "expires": 1724782548.63129,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "eswikimwuser-sessionId",
+      "value": "e16442b5785f569562f4",
+      "domain": "es.wikipedia.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CentralAuthAnonTopLevel",
+      "value": "1",
+      "domain": "es.wikipedia.org",
+      "path": "/",
+      "expires": 1724865345.982811,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "WMF-Last-Access",
+      "value": "27-Aug-2024",
+      "domain": "login.wikimedia.org",
+      "path": "/",
+      "expires": 1727524784.671419,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GeoIP",
+      "value": "CO:ANT:Medell__n:6.25:-75.56:v4",
+      "domain": ".wikimedia.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NetworkProbeLimit",
+      "value": "0.001",
+      "domain": "login.wikimedia.org",
+      "path": "/",
+      "expires": 1724782547.871893,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "eswikiSession",
+      "value": "2cv3jvimavsdrbcodsvgd1pf3d6bq9bf",
+      "domain": "es.wikipedia.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "eswikiUserID",
+      "value": "7234896",
+      "domain": "es.wikipedia.org",
+      "path": "/",
+      "expires": 1727370948.102267,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "eswikiUserName",
+      "value": "Test-End-To-End",
+      "domain": "es.wikipedia.org",
+      "path": "/",
+      "expires": 1727370948.102302,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "centralauth_User",
+      "value": "Test-End-To-End",
+      "domain": ".wikipedia.org",
+      "path": "/",
+      "expires": 1727370948.102332,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "loginnotify_prevlogins",
+      "value": "2024-k0zi98-6wp60dy2jt5i7t4icfwdsa469cgza8f",
+      "domain": "es.wikipedia.org",
+      "path": "/",
+      "expires": 1740330947.702644,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cpPosIndex",
+      "value": "1%401724778963%23c2f2cb38628d3e9a2326c40fd5db4745",
+      "domain": "es.wikipedia.org",
+      "path": "/",
+      "expires": 1724778957.702691,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "UseDC",
+      "value": "master",
+      "domain": "es.wikipedia.org",
+      "path": "/",
+      "expires": 1724778957.702712,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "loginwikiSession",
+      "value": "itj4h90kqbavb7kea6dfhke2noo5u6iv",
+      "domain": "login.wikimedia.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "loginwikiUserID",
+      "value": "87624842",
+      "domain": "login.wikimedia.org",
+      "path": "/",
+      "expires": 1727370947.8718,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "loginwikiUserName",
+      "value": "Test-End-To-End",
+      "domain": "login.wikimedia.org",
+      "path": "/",
+      "expires": 1727370947.871825,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "centralauth_User",
+      "value": "Test-End-To-End",
+      "domain": "login.wikimedia.org",
+      "path": "/",
+      "expires": 1727370947.871846,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "centralauth_Session",
+      "value": "f7d20b57061296ed96655e6a6c48ddb4",
+      "domain": "login.wikimedia.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "centralauth_Session",
+      "value": "f7d20b57061296ed96655e6a6c48ddb4",
+      "domain": ".wikipedia.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://es.wikipedia.org",
+      "localStorage": [
+        {
+          "name": "CentralAuthAnon",
+          "value": "1724865345672"
+        },
+        {
+          "name": "wmE-sessionTickLastTickTime",
+          "value": "1724778945592"
+        },
+        {
+          "name": "wmE-sessionTickTickCount",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}
